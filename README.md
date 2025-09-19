@@ -23,12 +23,12 @@ K = °C + 273.15
 45
 
 ### Salida:
-Grados Kelvin: 318.15
+Grados Kelvin: 318.15  
 Grados Fahrenheit: 113
 
 ### Entrada:
 14
 
 ### Salida:
-Grados Kelvin: 287.15
+Grados Kelvin: 287.15  
 Grados Fahrenheit: 57.2
